@@ -1,0 +1,3 @@
+import with_gil_panic
+
+with_gil_panic.spawn_thread_and_get_kill_handle()
